@@ -29,5 +29,6 @@ This document is dedicated to all the tips and tricks websites, blog posts, and 
 24. [E-Book of professional tip and secrets](https://goalkicker.com/GitBook/GitProfessionalTipsSecrets.pdf)
 25. [tutorial about simple rules of become git professional](https://medium.freecodecamp.org/follow-these-simple-rules-and-youll-become-a-git-and-github-master-e1045057468f)
 26. [Famous open source internships](https://github.com/tapaswenipathak/Open-Source-Internships/blob/master/README.md)
+27. [GitHub Understanding By Brian Yu(CS50)](https://www.youtube.com/watch?time_continue=10&v=MJUJ4wbFm_A)
 
 Keep adding more links, that you find helpful.
